@@ -1,0 +1,7 @@
+com/yuen/SpringMyContactApplication.class
+com/yuen/repository/ContactRepository.class
+com/yuen/domain/Contact.class
+com/yuen/config/WebMvcConfig.class
+com/yuen/service/ContactService.class
+com/yuen/service/ContactServiceImpl.class
+com/yuen/controller/ContactController.class
